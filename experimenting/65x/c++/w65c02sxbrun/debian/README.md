@@ -1,6 +1,6 @@
 # w65c02sxbrun
 
-*Copyright © Faustic Inferno SL*
+*Copyright © Alejandro Castro García*
 
 *Licensed under the MIT License*
 
