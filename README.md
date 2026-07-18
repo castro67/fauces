@@ -9,6 +9,8 @@ architectures and platforms.
 
 ## Purpose
 
+Fauces was started at Faustic Inferno SL in 2020 and acquired by Alejandro Castro García, Faustic Inferno's founder, in 2026. It's currently maintained just as a hobby, so activity is expected to be usually low.
+
 This project is motivated by the problems that often arise when trying to build well-established C++ implementations for platforms or architectures that are too old or too new or not popular enough. Sometimes, on a particular version of a well-supported platform, some dependencies fail or some conflicts occur that take a lot of effort to fix. Sometimes, support is lacking for a particular platform or architecture, and the source code needs to be modified, which requires a good knowledge of how it works.
 
 Maybe the sensible approach would be to carefully study an existing open source product, such as GCC or Clang, get enough expertise to be able to fix build problems with less effort and learn how to modify its source code skilfully. But instead of going that route, we are going to first try the more adventurous strategy of developing a new C++ implementation from scratch.
